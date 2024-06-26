@@ -3,8 +3,8 @@
 aiclassの授業内で作成したstreamlitを利用したアプリケーション
 
 必要なもの
-api_key
-endpoint
+* api_key
+* endpoint
 
 必要なライブラリ
-* stramlit
+* streamlit
